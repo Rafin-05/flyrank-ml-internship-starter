@@ -3,7 +3,7 @@
 - **Author:** Imam Hasan Rafin
 - **Lane:**
 - **Repo:** https://github.com/Rafin-05/flyrank-ml-internship-starter
-- **Date:** 21/10/2026
+- **Date:** 2026-10-21
 
 > Copy this file to `work/capstone_report.md` and fill it in as you build. Sections 1–8
 > mirror the Pass / Needs-Work rubric axes, so nothing here is optional. Sections 0 and 9
